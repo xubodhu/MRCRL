@@ -1,0 +1,53 @@
+NA	0	NA	#e2# has no relation with #e1#.
+/location/neighborhood/neighborhood_of	1	Where is the neighborhood of #e1#?	#e2# is the neighborhood of #e1#.
+/location/fr_region/capital	2	Where is the capital of #e1# region in France?	#e2# is the capital of #e1# region in France.
+/location/cn_province/capital	3	Where is the capital of #e1# province in China?	#e2# is the capital of #e1# province in China.
+/location/in_state/administrative_capital	4	Where is the administrative capital of #e1# state in India?	#e2# is the administrative capital of #e1# state in India.
+/base/locations/countries/states_provinces_within	5	Where are the states provinces within #e1#?	#e2# are the states provinces within #e1#.
+/business/company/founders	6	Who are the founders of #e1#?	#e2# are the founders of #e1#.
+/location/country/languages_spoken	7	What are the languages spoken of #e1#?	#e2#are the languages spoken of #e1#.
+/people/person/place_of_birth	8	Where is the birth place of #e1#?	#e2# is the birth place of #e1#.
+/people/deceased_person/place_of_death	9	Where is the death place of #e1#?	#e2# is the death place of #e1#.
+/location/it_region/capital	10	Where is the capital of #e1# region in Italy?	#e2# is the capital of #e1# region in Italy.
+/people/family/members	11	Who are the members of #e1#'s family?	#e2# is the member of #e1#'s family.
+/location/us_state/capital	12	Where is the capital of #e1# state in USA?	#e2# is the capital of #e1# state in USA.
+/location/us_county/county_seat	13	Where is the country seat of #e1#?	#e2# is the country seat of #e1#.
+/people/profession/people_with_this_profession	14	Who is the professer in #e1#?	#e2# is the professer in #e1#.
+/location/br_state/capital	15	Where is the capital of #e1# state in Brazil?	#e2# is the capital of #e1# state in Brazil.
+/location/in_state/legislative_capital	16	Where is the legislative capital in #e1# state in India ?	#e2# is the legislative capital of #e1# state in India.
+/sports/sports_team/location	17	Where is the location of #e1# sports team?	#e2# is the location of #e1# sport team.
+/people/person/religion	18	Which is the religion of #e1#?	#e2# is the religion of #e1#.
+/location/in_state/judicial_capital	19	Where is the judicial capital of #e1# state in India?	#e2# is the judicial capital of #e1# state in India.
+/business/company_advisor/companies_advised	20	Who advised #e2#?	#e1# advised #e2#.
+/people/family/country	21	Where is the country of #e1# family?	#e2# is the family country of #e1# family.
+/time/event/locations	22	Where is the location of #e1#?	#e2# is the location of #e1#.
+/business/company/place_founded	23	Where is the founded place of #e1#?	#e2# is the founded place of #e1#.
+/location/administrative_division/country	24	Where is the administrative division country of #e2#?	#e1# is the administrative division country of #e2#.
+/people/ethnicity/included_in_group	25	Which is included in a group of #e2#?	#e1# is included in a group of #e2#.
+/location/mx_state/capital	26	Where is the capital of #e1# state in Mexicano?	#e2# is the capital of #e1# state in Mexicano.
+/location/province/capital	27	Where is the province capital of #e1#?	#e2# is the province capital of #e1#.
+/people/person/nationality	28	Where is the nationality of #e1#?	#e2# is the nationality of #e1#.
+/business/person/company	29	Which is the company of #e1#?	#e2# is the company of #e1#.
+/business/shopping_center_owner/shopping_centers_owned	30	Who owned #e2#?	#e1# owned #e2#.
+/business/company/advisors	31	Who advises #e1# ?	#e2# advises #e1#.
+/business/shopping_center/owner	32	Which is shopping center owner of #e1#?	#e2# is the shopping center owner of #e1#.
+/people/person/ethnicity	33	Which is the ethnicity of #e1#?	#e2# is the ethnicity of #e1#.
+/people/deceased_person/place_of_burial	34	Where is the burial place of #e1#?	#e2# is the burial place of #e1#.
+/people/ethnicity/geographic_distribution	35	Where is the geographic distribution of #e1#?	#e2# is the geographic distribution of #e1#.
+/people/person/place_lived	36	Where is the lived place of #e1#?	#e2# is the lived place of #e1#.
+/business/company/major_shareholders	37	Who are the major shareholders of #e1#?	#e2# are the major shareholders of #e1#.
+/broadcast/producer/location	38	Where is the producer location of #e1# ?	#e2# is the producer location of #e1# broadcast.
+/broadcast/content/location	39	Where is the content location of #e1#?	#e2# is the content location of #e1#.
+/business/business_location/parent_company	40	Where is the location of #e2#'s parent company?	#e1# is the location of #e2#'s parent company.
+/location/jp_prefecture/capital	41	Where is the prefecture capital of #e1# in Japan?	#e2# is the prefecture capital of #e1# in Japan.
+/film/film/featured_film_locations	42	Where is the locations of featured film #e1#?	#e2# is the locations of featured film #e1#.
+/people/place_of_interment/interred_here	43	Who interred in #e1#?	#e2# interred in #e1#.
+/location/de_state/capital	44	Where is the capital of #e1# state in Delaware?	#e2# is the capital of #e1# state in Delaware.
+/people/person/profession	45	Which organization has the profession #e1#?	#e2# organization has the profession #e1#.
+/business/company/locations	46	Where is the location of company #e1#?	#e2# is the location of company #e1#.
+/location/country/capital	47	Where is the capital of #e1#?	#e2# is the capital of #e1#.
+/location/location/contains	48	Where contains #e1#?	#e1# contains #e2#.
+/location/country/administrative_divisions	49	Where is the administrative division of #e1#?	#e2# is the administrative division of #e1#.
+/people/person/children	50	Who are the children of #e1#?	#e2# are the children of #e1#.
+/film/film_location/featured_in_films	51	Which #e1# featured in?	#e2# featured in #e1#.
+/film/film_festival/location	52	Where is the location of film festival #e1#?	#e2# is the location of film festival #e1#.
