@@ -41,3 +41,17 @@ python inference.py
 ```
 For more implementation details, please read the source code.
 
+### Cite
+
+If you think our work is helpful, please cite
+
+```
+@inproceedings{xu2021improving,
+  title={Improving Sentence-Level Relation Classification via Machine Reading Comprehension and Reinforcement Learning},
+  author={Xu, Bo and Zhang, Zhengqi and Zhao, Xiangsan and Song, Hui and Du, Ming},
+  booktitle={Pacific Rim International Conference on Artificial Intelligence},
+  pages={299--310},
+  year={2021},
+  organization={Springer}
+}
+```
